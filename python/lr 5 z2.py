@@ -1,0 +1,15 @@
+s = 'Я люблю писать программы!'
+print(s)
+print(s[0])
+print(s[-1])
+print(len(s)-1)
+print(s[24])
+print(s[0]=='J')
+s = 'Питоны водятся в Африке'
+print(s)
+print(s[1:3])
+print(s[:3])
+print(s[:])
+print(s[::2])
+print(s[::-1])
+print(s[:-1])
